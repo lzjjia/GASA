@@ -1,1 +1,3 @@
 # GASA
+This is the code for the paper 'Ground-to-Aerial Scene Adaptation: Unsupervised Drone Video Action Recognition via Domain Adaptation'.
+we will release code soon...
